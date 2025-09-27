@@ -1,7 +1,7 @@
 #  Day 1: Introduction to Verilog RTL Design & Synthesis
 
-Welcome to **Day 1** of the RTL Workshop!  
-Today, we'll embark on your journey into digital design by learning Verilog, open-source simulation with **Icarus Verilog (iverilog)**, and the basics of logic synthesis using **Yosys**. This guide will walk you through practical labs, essential concepts, and insightful explanations to help you build a strong foundation in RTL design.
+Welcome to **Day 1** of the RTL Workshop Report!  
+Today, I'll embark on your journey into digital design by learning Verilog, open-source simulation with **Icarus Verilog (iverilog)**, and the basics of logic synthesis using **Yosys**. This guide will walk you through practical labs, essential concepts, and insightful explanations to help you build a strong foundation in RTL design.
 
 ---
 
@@ -31,28 +31,19 @@ The **design** is your Verilog code describing the intended logic functionality.
 
 A **testbench** is a simulation environment that applies various inputs to your design and checks if the outputs are correct.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/93927b96-df80-4da5-b801-284fc2cc6757" alt="Design & Testbench Overview" width="70%">
-</div>
-
 ---
 
 ## 2. Getting Started with iverilog
 
 **iverilog** is an open-source simulator for Verilog. Here’s the typical simulation flow:
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/3ca190fb-cfa4-4abb-b9e1-0151b3c4bdba" alt="iverilog Simulation Flow" width="70%">
-</div>
-
 - Both the design and testbench are provided as input to iverilog.
 - The simulator produces a `.vcd` file for waveform viewing in GTKWave.
 
 ---
 
-## 3. Lab: Simulating a 2-to-1 Multiplexer
+## 3. Task 1.1A: Simulating a 2-to-1 Multiplexer
 
-Let’s simulate a simple **2-to-1 multiplexer** using iverilog!
+Here we have to simulate a simple **2-to-1 multiplexer** using iverilog!
 
 ###  Step 1: Clone the Workshop Repository
 
@@ -61,9 +52,10 @@ git clone https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop.git
 cd sky130RTLDesignAndSynthesisWorkshop/verilog_files
 ```
 
-###  Step 2: Install Required Tools
+###  Step 2: Setting up the environment
 
 ```shell
+#install the required tools 
 sudo apt install iverilog
 sudo apt install gtkwave
 ```
