@@ -1,7 +1,7 @@
 #  Day 1: Introduction to Verilog RTL Design & Synthesis
 
 Welcome to **Day 1** of the RTL Workshop!  
-Today, you'll embark on your journey into digital design by learning Verilog, open-source simulation with **Icarus Verilog (iverilog)**, and the basics of logic synthesis using **Yosys**. This guide will walk you through practical labs, essential concepts, and insightful explanations to help you build a strong foundation in RTL design.
+Today, we'll embark on your journey into digital design by learning Verilog, open-source simulation with **Icarus Verilog (iverilog)**, and the basics of logic synthesis using **Yosys**. This guide will walk you through practical labs, essential concepts, and insightful explanations to help you build a strong foundation in RTL design.
 
 ---
 
@@ -190,10 +190,10 @@ Let’s synthesize the `good_mux` design using Yosys!
 
 ## 7. Summary
 
-- You learned about simulators, designs, and testbenches.
-- You ran your first Verilog simulation with iverilog and visualized waveforms.
-- You analyzed the 2-to-1 mux code.
-- You explored Yosys and learned why gate libraries have various flavors.
+- We learned about simulators, designs, and testbenches.
+- We ran your first Verilog simulation with iverilog and visualized waveforms.
+- We analyzed the 2-to-1 mux code.
+- We explored Yosys and learned why gate libraries have various flavors.
 
 
 ---
