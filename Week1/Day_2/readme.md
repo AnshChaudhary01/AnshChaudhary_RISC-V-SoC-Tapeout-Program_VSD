@@ -171,7 +171,7 @@ endmodule
 ```
 - **Synchronous reset**: Takes effect only on the clock edge.
 
-![Synchronous Reset Flip-Flop Waveform](ss-dff_syncres.png)
+![Synchronous Reset Flip-Flop Waveform](ss-dff_sync.jpg)
 
 ### Asynchronous Reset and Synchronous Reset D Flip-Flop
 
@@ -248,7 +248,7 @@ endmodule
    show
    ```
 
-![](ss-dff_netlist.jpg)
+![](ss-dff_async_netlist.jpg)
 
 ---
 
