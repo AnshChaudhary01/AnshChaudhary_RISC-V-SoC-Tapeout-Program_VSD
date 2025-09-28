@@ -1,4 +1,4 @@
-# VSDBabySoC — Learning System-on-Chip (SoC) Fundamentals
+# VSDBabySoC - Learning System-on-Chip (SoC) Fundamentals
 
 ## Overview
 VSDBabySoC is a compact, educational System-on-Chip (SoC) prototype based on the RISC-V architecture. It is intentionally simple and modular so learners can explore core SoC concepts — CPU operation, clocking, analog interfacing, and data flow — without the complexity of a commercial SoC. This README summarizes SoC fundamentals and explains how BabySoC fits into the learning journey.
