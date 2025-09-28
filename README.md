@@ -10,7 +10,7 @@ This program is part of India’s largest collaborative RISC-V tapeout initiativ
 
 | Task | Description | Status |
 | :--- | :--- | :--- |
-| **[Task 0](Week0/Task0/README.md)** | 🛠️ **Tools Installation:** Installed **Icarus Verilog**, **Yosys**, and **GTKWave**. | ✅ Done |
+| **[Week0](Week0/Task0/README.md)** | 🛠️ **Tools Installation:** Installed **Icarus Verilog**, **Yosys**, and **GTKWave**. | ✅ Done |
 | **[Week1](Week1/README.md)** | Complete digital design flow - from initial RTL coding to gate-level implementation. | ✅ Done |
 
 ### 🌟 Key Learnings from Week 0
