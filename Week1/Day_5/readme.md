@@ -354,7 +354,7 @@ always @(*) begin
 end
 endmodule
 ```
-![demux-generate](demux_generate.jpg)
+![demux-generate](demux_generate_simulation.jpg)
 
 ---
 
