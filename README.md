@@ -12,6 +12,9 @@ This program is part of India’s largest collaborative RISC-V tapeout initiativ
 | :--- | :--- | :--- |
 | **[Week0](Week0/Task0/README.md)** | 🛠️ **Tools Installation:** Installed **Icarus Verilog**, **Yosys**, and **GTKWave**. | ✅ Done |
 | **[Week1](Week1/README.md)** | Complete digital design flow - from initial RTL coding to gate-level implementation. | ✅ Done |
+| **[Week2](Week2/Part 1-Theory (Conceptual Understanding).md)** | Understanding of SoC fundamentals and Practice functional modelling of 
+the BabySoC | ✅ Done |
+
 
 ### 🌟 Key Learnings from Week 0
 
@@ -24,8 +27,8 @@ This program is part of India’s largest collaborative RISC-V tapeout initiativ
 ## 📈 Weekly Progress Tracker
 
 [![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Week0)
-[![Week 1](https://img.shields.io/badge/Week%201-RTL2GDS%20Alchemy:%20Digital%20Design%20Proficiency-success?style=flat-square)](Week1)
-![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
+[![Week 1](https://img.shields.io/badge/Week%201-RTL2GDS%20Alchemy:%20Digital%20Design-success?style=flat-square)](Week1)
+![Week 2](https://img.shields.io/badge/Week%202-VSDBabySoC%20Project-success?style=flat-square))(Week2)
 
 **🔗 Program Links:**
 [![VSD Website](https://img.shields.io/badge/VSD-Official%20Website-blue?style=flat-square)](https://vsdiat.vlsisystemdesign.com/)
