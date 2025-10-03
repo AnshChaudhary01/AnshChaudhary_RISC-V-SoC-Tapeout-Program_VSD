@@ -12,7 +12,7 @@ This program is part of India’s largest collaborative RISC-V tapeout initiativ
 | :--- | :--- | :--- |
 | **[Week0](Week0/Task0/README.md)** | 🛠️ **Tools Installation:** Installed **Icarus Verilog**, **Yosys**, and **GTKWave**. | ✅ Done |
 | **[Week1](Week1/README.md)** | Complete digital design flow - from initial RTL coding to gate-level implementation. | ✅ Done |
-| **[Week2](Week2/Part 1-Theory (Conceptual Understanding).md)**| Understanding of SoC fundamentals and Practice functional modelling of the BabySoC | ✅ Done |
+| **[Week2](Week2)**| Understanding of SoC fundamentals and Practice functional modelling of the BabySoC | ✅ Done |
 
 ---
 
